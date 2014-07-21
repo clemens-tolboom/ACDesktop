@@ -5,6 +5,8 @@ With this program I wanted to experiment with random note player using collision
 To spice it up there are rotating keyboards and a G-clef controlled by mouse.
 The clef is launched when releasing the mouse button while dragging.
 
+[Watch the video](https://vimeo.com/101279472)
+
 ![Screenshot](screenshot.png)
 
 # Download the code
