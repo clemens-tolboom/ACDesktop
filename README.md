@@ -8,6 +8,10 @@ The clef is launched when releasing the mouse button.
 
 ![Screenshot](screenshot.png)
 
+# Download the code
+
+Click [here](https://github.com/clemens-tolboom/ACDesktop/archive/master.zip) to download.
+
 # Code snippets
 
 ## Physics
