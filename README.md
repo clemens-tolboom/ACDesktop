@@ -79,6 +79,11 @@ void mouseReleased()
 I wanted to switch easily between renderer and log some information lines I added a constant
 
 ```java
+// Custom handler only
+final int DEBUG = 0;
+// Both renderers
+final int DEBUG = 1;
+// DEfault renderer
 final int DEBUG = 2;
 ```
 
