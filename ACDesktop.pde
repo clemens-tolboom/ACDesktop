@@ -15,7 +15,12 @@ Physics physics;
 
 CollisionDetector detector; 
 
+// Custom handler only
 final int DEBUG = 0;
+// Both renderers
+//final int DEBUG = 1;
+// DEfault renderer
+//final int DEBUG = 2;
 
 Body kicker;
 Body [] notes;
