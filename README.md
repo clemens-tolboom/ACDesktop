@@ -27,7 +27,7 @@ physics.setRestitution(1.0);
 
 ## Rotating keyboard.
 
-To make a rotating keyboard we need to elements. On that is not moving and one
+To make a rotating keyboard we need two elements. On that is not moving and one
 that does but is attached to the first.
 
 ![Rotator](rotator.png)
