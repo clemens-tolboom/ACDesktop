@@ -27,7 +27,7 @@ physics.setRestitution(1.0);
 
 ## Rotating keyboard.
 
-To make a rotating keyboard we need two elements. On that is not moving and one
+To make a rotating keyboard we need two elements. One that is not moving and one
 that does but is attached to the first.
 
 ![Rotator](rotator.png)
@@ -78,14 +78,14 @@ void mouseReleased()
 
 ## Debugging
 
-I wanted to switch easily between renderer and log some information lines I added a constant
+I wanted to switch easily between renderer and log some information lines so I added a constant.
 
 ```java
-// Custom handler only
+// Custom renderer only
 final int DEBUG = 0;
 // Both renderers
 final int DEBUG = 1;
-// DEfault renderer
+// Default renderer only
 final int DEBUG = 2;
 ```
 
